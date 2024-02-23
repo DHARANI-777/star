@@ -1,0 +1,26 @@
+/* src/components/PlanetCard.css */
+.planet-card {
+  border: 1px solid white;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 8px;
+  max-width: 300px;
+  text-align: left;
+  background-color:skyblue;
+}
+
+h2 {
+  color: purple;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+  color: purple;
+}
+
+/* Add more styles for responsiveness */

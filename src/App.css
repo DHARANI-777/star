@@ -1,0 +1,15 @@
+/* src/App.css */
+.app-container {
+  text-align: center;
+  margin: 20px;
+  background-color:purple;
+}
+
+h1 {
+  color:white;
+}
+button{
+ margin-top: 20px;
+ border-radius: 20px;
+ 
+}

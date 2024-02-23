@@ -1,0 +1,13 @@
+/* src/components/PlanetList.css */
+.planet-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px;
+
+}
+
+
+
+
+ 
